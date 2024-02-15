@@ -1,3 +1,4 @@
 Dfbgfdbcvcvx
 Gbsdfbgggbfs
 Fsbgfbfvxcbcbb
+Print("Решаем задачу")
